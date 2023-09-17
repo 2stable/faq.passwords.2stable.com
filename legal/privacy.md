@@ -48,6 +48,6 @@ We use Crashlytics service to collect and manage this data.
 <br>
 
 ### Questions or Concerns?
-If you have any questions or concerns about your data or any other inquiries, please feel free to contact us at [{{ site.email }}](mailto:{{ site.email }}). We are here to address all your queries.
+If you have any questions or concerns about your data or any other inquiries, please feel free to contact us at support@2stable.com. We are here to address all your queries.
 
 Your satisfaction is our top priority. If you believe that anything falls short of your expectations, please let us know so we can make improvements. We are open to adjustments and committed to ensuring your privacy.
