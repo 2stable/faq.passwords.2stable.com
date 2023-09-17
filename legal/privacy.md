@@ -26,18 +26,9 @@ We use RevenueCat service to collect and manage this data.
 <br>
 
 ### Usage Analytics
-We employ the Mixpanel SDK to capture essential anonymized usage data and analytics pertaining to your interactions with our App. It's important to note that this data is entirely anonymous and cannot be traced back to a specific device or individual user. This information plays a crucial role in helping us gain insights into overall user behavior, enhance our services, and improve your overall experience with our App.
+We employ the Mixpanel SDK to capture essential anonymized usage data and analytics pertaining to your interactions with our App. The data collected includes various usage patterns and interactions within the application. It helps us understand general user behavior, improve our services, and enhance your experience. We believe in transparency, and should you desire to explore further details about the data collected and the analytics processes involved, we invite you to visit the official website of our analytics partner, Mixpanel. There, you can access comprehensive information regarding their data collection methods and practices.
 
-1. Application start and end times.
-2. Device locale.
-3. Device type, CPU architecture, and version of the operating system.
-4. Device information, 
-5. IP address, and event data.
-
-Event data that helps us understand your interactions with our App.
-Should you wish to learn more about Mixpanel and how their SDK operates, you can find additional information by following this link: [Learn More about Mixpanel SDK.](https://mixpanel.com/legal/app-store-privacy-details)
-
-We use Mixpanel service to collect and manage this data.
+[Learn More about Mixpanel SDK.](https://mixpanel.com/legal/app-store-privacy-details)
 
 <br>
 
