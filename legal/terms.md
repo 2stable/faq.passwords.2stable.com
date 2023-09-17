@@ -74,4 +74,5 @@ In addition to the general restrictions, the following conditions apply to your 
 By using the Service, you affirm that you are either 18 years of age or older, an emancipated minor, or possess legal parental or guardian consent.
 
 ### Questions or Concerns?
-If you have any questions, concerns, or inquiries about our Terms of Use, please don't hesitate to contact us at support@2stable.com. We are here to assist you with all your queries.
+If you have any questions, concerns, or inquiries about our Terms of Use, please don't hesitate to [**Contact Us**](passkeys://contact?subject=Terms).
+ We are here to assist you with all your queries.
