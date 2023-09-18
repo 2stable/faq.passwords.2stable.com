@@ -22,10 +22,6 @@ In no event shall 2Stable, its suppliers, or licensors be liable under any contr
 (iii) Interruption of use or loss or corruption of data; or
 (iv) Any amounts exceeding the fees paid by you to 2Stable under this agreement in the twelve (12) months preceding the date the cause of action accrues. 2Stable shall have no liability for any failure or delay due to matters beyond its reasonable control. This limitation of liability shall not apply to the extent prohibited by applicable law.
 
-### Passkeys App Premium Subscription
-
-By subscribing to Passkeys Premium, you gain access to all premium features. Subscriptions are billed annually, monthly or weekly at the rate corresponding to the selected plan. Payment is charged to your iTunes Account upon confirmation of purchase. Subscriptions automatically renew unless auto-renewal is disabled at least 24 hours before the current period's end. Account charges for renewal are processed within 24 hours before the end of the current period and identify the renewal cost. You can manage subscriptions and disable auto-renewal through your device settings. Unused portions of free trial periods, if available, are forfeited upon subscribing. All fees and charges are non-refundable. For subscription cancellations or switching to another premium service package, please contact us. You are solely responsible for the content you publish on Passkeys. You warrant that you possess the necessary licenses, rights, consents, and permissions to publish content. Premium listings for content that violates our Terms of Service may be removed by 2Stable without notice or refunds. Violations may result in the suspension of your subscription or access to site content, with no refunds provided.
-
 ### General Use of the Service
 
 2Stable grants you permission to access and use the Service as outlined in these Terms of Service, provided that:
