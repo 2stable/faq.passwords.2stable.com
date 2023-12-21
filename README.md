@@ -1,1 +1,1 @@
-[test](https://faq.passkeys.2stable.com/)
+[test](https://faq.passwords.2stable.com/)
