@@ -9,7 +9,7 @@ At 2Stable, we prioritize your privacy. We believe that the less information we 
 <br>
 
 ### Personal Data
-We do not collect or have access to your personal data that you save in Passkeys App. Everything you do is stored in your iCloud account in encrypted form and is synchronized across your devices using the same iCloud account. When you use our software, we may collect some usage analytics, subscription validation data, and crash logs. The sole purpose of this data is to help us make informed decisions about where to focus our efforts and improve our software. You may provide some data directly when you contact us for support, limited to your email address only.
+We do not collect or have access to your personal data that you save in Password Manager. Everything you do is stored in your iCloud account in encrypted form and is synchronized across your devices using the same iCloud account. When you use our software, we may collect some usage analytics, subscription validation data, and crash logs. The sole purpose of this data is to help us make informed decisions about where to focus our efforts and improve our software. You may provide some data directly when you contact us for support, limited to your email address only.
 
 <br>
 
@@ -48,6 +48,6 @@ We use Crashlytics service to collect and manage this data.
 <br>
 
 ### Questions or Concerns?
-If you have any questions or concerns about your data or any other inquiries, please feel free to [**contact us**](passkeys://contact?subject=Privacy). We are here to address all your queries.
+If you have any questions or concerns about your data or any other inquiries, please feel free to [**contact us**](passwords://contact?subject=Privacy). We are here to address all your queries.
 
 Your satisfaction is our top priority. If you believe that anything falls short of your expectations, please let us know so we can make improvements. We are open to adjustments and committed to ensuring your privacy.

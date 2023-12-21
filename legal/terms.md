@@ -2,7 +2,7 @@
 
 ### Acceptance of Terms
 
-By accessing or using the Passkeys App and its associated products, software, data feeds, and services (hereafter referred to as the "Service"), you acknowledge that you have read, understood, and agree to abide by these terms and conditions. If you do not agree with any part of these terms, please refrain from using the Service. The Service is provided by 2Stable on an "AS IS" and "AS AVAILABLE" basis. 2Stable reserves the right to modify, suspend, or discontinue the Service, at its sole discretion, without prior notice. Your continued use of the Service following any modifications constitutes your acceptance of such changes. 2Stable shall not be liable to you or any third party for any modification, suspension, or discontinuance of the Service.
+By accessing or using the Password Manager by 2Stable and its associated products, software, data feeds, and services (hereafter referred to as the "Service"), you acknowledge that you have read, understood, and agree to abide by these terms and conditions. If you do not agree with any part of these terms, please refrain from using the Service. The Service is provided by 2Stable on an "AS IS" and "AS AVAILABLE" basis. 2Stable reserves the right to modify, suspend, or discontinue the Service, at its sole discretion, without prior notice. Your continued use of the Service following any modifications constitutes your acceptance of such changes. 2Stable shall not be liable to you or any third party for any modification, suspension, or discontinuance of the Service.
 
 ### Scope of Service
 
@@ -38,7 +38,7 @@ You agree not to create, publish, or distribute content that, at 2Stable's sole 
 - Infringes upon third-party rights, including copyrights, trademarks, patents, trade secrets, and privacy rights.
 - Promotes copyright or other rights infringement.
 - Contains improper, incorrect, or fake contents.
-- Duplicates existing content on Passkeys App.
+- Duplicates existing content on Password Manager.
 - Contains software viruses or other malicious code.
 - Is offensive, abusive, threatening, harassing, or promotes violence, racism, hatred, or harm.
 - Is libelous or defamatory.
@@ -48,6 +48,12 @@ You agree not to create, publish, or distribute content that, at 2Stable's sole 
 - Is significantly connected with commercial purposes or unlawful activities.
 
 You agree to comply with all applicable laws while using the Service. 2Stable reserves the right to discontinue any aspect of the Service at any time.
+
+### Password Manager Premium Subscription
+
+With a Password Manager Premium subscription, you have access to all features. Password Manager Premium subscription is billed annually, monthly or weekly at the rate corresponding to the selected plan. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. To cancel your subscription, you can go to your device Settings -> iTunes & App Store, tap your Apple ID, tap View Apple ID, tap Subscriptions, and click on Cancel Subscription for the app. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. All fees and charges are non-refundable. If you would like to cancel your subscription or switch to another premium service package, please contact us. You warrant that you own or have the necessary licenses, rights, consents, and permissions to publish the contents. You agree not to publish and create any premium listings for content that violate our Terms of Service. Lilucat has the right to remove the listings without any prior notice and fees or charges will not be refunded. You understand that your subscription or access to the contents of the Site will be suspended if you violate the Terms of Service. Suspended accounts will not be restored and fees or charges will not be refunded.
+
+
 
 ### Use of Content
 
@@ -70,5 +76,5 @@ In addition to the general restrictions, the following conditions apply to your 
 By using the Service, you affirm that you are either 18 years of age or older, an emancipated minor, or possess legal parental or guardian consent.
 
 ### Questions or Concerns?
-If you have any questions, concerns, or inquiries about our Terms of Use, please don't hesitate to [**contact us**](passkeys://contact?subject=Terms).
+If you have any questions, concerns, or inquiries about our Terms of Use, please don't hesitate to [**contact us**](passwords://contact?subject=Terms).
  We are here to assist you with all your queries.
