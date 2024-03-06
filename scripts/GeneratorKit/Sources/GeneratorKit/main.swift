@@ -31,9 +31,10 @@ struct Generator: ParsableCommand {
                 
                 faq.append(Faq(
                     platform: platform,
-                    url: URL(string: "\(folder.path(relativeTo: current))/\(file.name)", relativeTo: config.base)!,
+                    url: URL(string: "\(config.base)/\(folder.path(relativeTo: current))/\(file.name)")!,
                     title: title,
-                    icon: icon(frontMatter: frontMatter, config: config)
+                    icon: icon(frontMatter: frontMatter, config: config),
+                    filename: file.name
                 ))
             }
         }
@@ -48,7 +49,7 @@ struct Generator: ParsableCommand {
         // Process help folder
         try! process(.all, help)
         
-        try! help.createFile(named: "help.json", contents: JSONEncoder().encode(faq.sorted(by: { $0.url.absoluteString < $1.url.absoluteString })))
+        try! help.createFile(named: "help.json", contents: JSONEncoder().encode(faq.sorted(by: { $0.filename < $1.filename })))
     }
 }
 
@@ -61,7 +62,7 @@ func icon(frontMatter: FrontMatter?, config: Config) -> URL {
         return URL(string: icon)!
     }
     
-    return URL(string: icon, relativeTo: config.base)!
+    return URL(string: "\(config.base)/\(icon)")!
 }
 
 func frontMatter(from file: File) -> FrontMatter? {
@@ -81,11 +82,16 @@ public struct Config: Codable {
     let icon: URL
 }
 
-public struct Faq: Codable {
+public struct Faq: Encodable {
+    private enum CodingKeys: String, CodingKey {
+        case platform, url, title, icon
+    }
+    
     let platform: Platform
     let url: URL
     let title: String
     let icon: URL
+    let filename: String
 }
 
 // MARK: -
