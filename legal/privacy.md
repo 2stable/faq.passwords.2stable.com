@@ -26,9 +26,7 @@ We use RevenueCat service to collect and manage this data.
 <br>
 
 ### Usage Analytics
-We employ the Mixpanel SDK to capture essential anonymized usage data and analytics pertaining to your interactions with our App. The data collected includes various usage patterns and interactions within the application. It helps us understand general user behavior, improve our services, and enhance your experience. We believe in transparency, and should you desire to explore further details about the data collected and the analytics processes involved, we invite you to visit the official website of our analytics partner, Mixpanel. There, you can access comprehensive information regarding their data collection methods and practices.
-
-[Learn More about Mixpanel SDK.](https://mixpanel.com/legal/app-store-privacy-details)
+Our app uses Mixpanel and Amplitude to collect essential anonymized analytics data. Both services collect non-personal information, such as app interactions, user engagement metrics, and general usage patterns, to help us improve our services. This data is used solely to understand how our app is being used and to identify areas for improvement. All information collected by Mixpanel and Amplitude is stored and managed in accordance with their respective privacy policies, which you can view at [Mixpanel’s Privacy Policy](https://mixpanel.com/legal/privacy-policy/) and [Amplitude’s Privacy Policy](https://amplitude.com/privacy).
 
 <br>
 
