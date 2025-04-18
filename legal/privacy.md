@@ -1,51 +1,57 @@
 ### Privacy Policy
-This Privacy Policy explains how 2Stable ("we," "us," or "our") collects, uses, and discloses personal information when you use our Service. We are committed to safeguarding your privacy and will only use your information as described in this Privacy Policy. By using the Service, you agree to the collection and use of your information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used here have the same meanings as in our Terms and Conditions.
-
-<br>
+This Privacy Policy explains how 2Stable ("we," "us," or "our") collects, uses, and protects your personal information when you use our services. We are committed to safeguarding your privacy and will only collect the minimal data necessary to operate and improve our software. By using the Service, you agree to the practices described in this Privacy Policy. Unless otherwise defined here, terms used in this document have the same meanings as in our Terms and Conditions.
 
 ### Our Commitment to Privacy
-At 2Stable, we prioritize your privacy. We believe that the less information we have about you, the better. After all, it is impossible to lose, misuse, or abuse information we don't have.
-
-<br>
+At 2Stable, your privacy is a core principle. We believe that the less data we collect, the better. If we don’t have your information, we can’t lose it, misuse it, or expose it. That’s why we’ve designed our products to collect as little information as possible.
 
 ### Personal Data
-We do not collect or have access to your personal data that you save in Password Manager. Everything you do is stored in your iCloud account in encrypted form and is synchronized across your devices using the same iCloud account. When you use our software, we may collect some usage analytics, subscription validation data, and crash logs. The sole purpose of this data is to help us make informed decisions about where to focus our efforts and improve our software. You may provide some data directly when you contact us for support, limited to your email address only.
+We do **not** collect or have access to the personal data you store within our application, **Password Manager**. All data saved in the app is **fully encrypted** before being stored in your **iCloud account**, and it is synchronized securely across your devices. Your data remains entirely private — it is encrypted in such a way that not even 2Stable or Apple can read or decrypt it.
 
-<br>
+To help maintain and improve the app, we may collect limited technical information:
+- **Usage analytics** to understand general app behavior
+- **Subscription validation** to verify and manage premium access
+- **Crash reports** to improve stability and performance
+
+This data is minimal, anonymized wherever possible, and used solely to enhance your experience. The only personal information we may receive is your **email address**, and only if you choose to contact us for support.
 
 ### Subscription Validation
-To manage and update subscription status, we use the following:
+To manage and verify your subscription status, we use the **RevenueCat** SDK, which helps us securely validate in-app purchases and manage access to premium features.
 
-1. Receipt validation.
-2. In-App purchases.
-3. Fetching subscription products.
-4. Subscription status.
+As part of this process, the following data may be collected:
+- Receipt validation
+- In-app purchase details
+- Subscription product identifiers
+- Current subscription status
 
-We use RevenueCat service to collect and manage this data.
+This information is used solely to confirm your eligibility for premium features and is never used for tracking or advertising.
 
-<br>
+You can learn more about RevenueCat’s SDK data handling practices in their [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/).
 
 ### Usage Analytics
-Our app uses Mixpanel and Amplitude to collect essential anonymized analytics data. Both services collect non-personal information, such as app interactions, user engagement metrics, and general usage patterns, to help us improve our services. This data is used solely to understand how our app is being used and to identify areas for improvement. All information collected by Mixpanel and Amplitude is stored and managed in accordance with their respective privacy policies, which you can view at [Mixpanel’s Privacy Policy](https://mixpanel.com/legal/privacy-policy/) and [Amplitude’s Privacy Policy](https://amplitude.com/privacy).
+To help us improve **Password Manager** and better understand how it's used, we use **Mixpanel** to collect anonymized usage analytics. The data collected includes non-personal information such as:
+- App interactions
+- Feature usage
+- General engagement patterns
 
-<br>
+This data is aggregated and not linked to your identity. It is never used for tracking or advertising purposes. We rely on this information solely to improve the app and deliver a better experience.
+
+All analytics data is handled in accordance with [Mixpanel’s Privacy Policy](https://mixpanel.com/legal/privacy-policy/).
 
 ### Crash Logs
-Crash logs are automatically sent on the next app start (by default). These logs contain anonymized data about the crash, aiding us in identifying the cause and potentially providing a fix in a future update. They do not contain data or metadata about the content you create with our software. Here's what we collect:
+We use **Firebase Crashlytics** to collect crash reports that help us identify bugs and improve the stability of **Password Manager**. These reports contain only technical information related to the crash and do **not** include any of your personal data or content stored in the app.
 
-1. Anonymized bundle identifier and short bundle version string of your app.
-2. Device type, CPU architecture, and version of the operating system.
-3. Timestamp of the crash.
-4. A generated UUID to prevent duplicate crash reports.
-5. If an exception was thrown, the plain-text class name and message value of the exception.
-6. Low-level crash data, including instruction pointer, method or function names, signal data, pointer registers, and information about the loaded binary images.
-7. The application log file.
+The crash data may include:
+- Anonymized bundle identifier and app version
+- Device type, CPU architecture, and operating system version
+- Timestamp of the crash
+- A generated UUID (used to avoid duplicate reports)
+- Exception details, such as the class name and error message (if applicable)
+- Low-level crash data, including instruction pointers, method or function names, signal info, and memory register states
+- Application log file at the time of the crash
 
-We use Crashlytics service to collect and manage this data.
-
-<br>
+This data is used exclusively to diagnose issues and improve app performance. All crash reports are processed in accordance with [Firebase’s Privacy Policy](https://firebase.google.com/support/privacy).
 
 ### Questions or Concerns?
-If you have any questions or concerns about your data or any other inquiries, please feel free to [**contact us**](passwords://contact?subject=Privacy). We are here to address all your queries.
+If you have any questions about your data, privacy, or anything else related to our app, please don’t hesitate to [**contact us**](passwords://contact?subject=Privacy). We’re here to help and happy to answer any concerns you may have.
 
-Your satisfaction is our top priority. If you believe that anything falls short of your expectations, please let us know so we can make improvements. We are open to adjustments and committed to ensuring your privacy.
+Your satisfaction is important to us. If you feel that something doesn’t meet your expectations, let us know - we’re always open to feedback and committed to making improvements.
